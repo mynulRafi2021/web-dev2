@@ -1,0 +1,140 @@
+.navbar{
+    color: black;
+    box-shadow: 0px 0px 9px;
+}
+.box{
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: #F7F9FA;
+    border: 2px solid black;
+}
+.box-1{
+    width: 360px;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+}
+.box-1 i{
+    color: black;
+    font-size: 25px;
+}
+.box-1 input{
+    border: none;
+    font-size: 18px;
+    width: 320px;
+    height: 35px;
+}
+.box i{
+    margin-left: 10px;
+    font-size: 20px;
+    color: #777;
+}
+.box input{
+    width: 440px;
+    height: 40px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    padding-left: 10px;
+    background-color: #F7F9FA;
+}
+.cart{
+    font-size: 20px;
+}
+.one {
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 20px;
+}
+#one{
+    padding: 10px 15px;
+}
+.nav-item{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.sec-1{
+    background-image: url(nav.jpg);
+    background-repeat: no-repeat;
+    padding: 100px;
+    margin-bottom: 50px;
+}
+.flash{
+    border: 2px solid black;
+    background: white;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+}
+ul.nav li a{
+    color: black;
+    font-weight: 700;
+}
+.expand{
+    font-size: 23px;
+}
+.whether{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+}
+a.box-3{
+    border: 2px solid black;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 13px;
+    color: black;
+    font-weight: 800;
+}
+.sec-3{
+    border: 2px solid gray;
+    padding: 40px;
+}
+p.price{
+    float: left;
+    margin-right: 20px;5
+    font-weight: 800;
+}
+.star{
+    color: goldenrod;
+}
+.bestseller{
+    background-color: #ECEB98;
+}
+.sec-4{
+    border: 2px solid #F8F9FB;
+    background-color: #F8F9FB;
+}
+div.profile{
+    display: flex;
+    justify-content: center;
+}
+.sec-4 li{
+    list-style: none;
+    font-size: 20px;
+    color: black;
+}
+li.name{
+    font-size: 40px;
+    color: gold
+}
+.rafi{
+    width: 300px;
+}
+ul.rafi-pic{
+    text-align: center;
+    display: flex;
+    border: 2px solid black;
+    flex-direction: column;
+    background-color: #F7FFFF;
+    align-items: center;
+    width: 500px;
+    box-shadow: 1px 1px 5px;
+}
